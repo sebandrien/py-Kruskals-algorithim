@@ -1,4 +1,4 @@
-# PY Kruskal's Alogrithim
+# Python Kruskal's Alogrithim
 
 This Python class, Graph, implements Kruskal's algorithm to find the Minimum Spanning Tree (MST) of an undirected graph. It represents a graph as a collection of vertices and weighted edges. Each edge is defined by its two endpoints and weight, and is added using the add_edge method. 
 
